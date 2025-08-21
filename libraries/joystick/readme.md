@@ -20,4 +20,6 @@
 
 Включите библиотеку в свой скетч, используя директиву `#include`:
 
-```#include <joystick.h>```
+```cpp
+#include <joystick.h>
+```
