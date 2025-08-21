@@ -1,0 +1,3 @@
+joystick KEYWORD2
+readY    KEYWORD3
+readX    KEYWORD3
