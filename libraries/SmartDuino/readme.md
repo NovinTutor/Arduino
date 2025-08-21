@@ -20,4 +20,5 @@
 
 Включите библиотеку в свой скетч, используя директиву `#include`:
 
-#include <SmartDuino.h>
+
+```#include <SmartDuino.h>```
