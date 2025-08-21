@@ -1,0 +1,4 @@
+PULLUP     KEYWORD3
+digitalPin KEYWORD2
+analogPin  KEYWORD2
+PWMpin     KEYWORD2
